@@ -19,7 +19,7 @@ This project implements a chatbot using Google's Gemini AI model, with the abili
 1. Clone this repository:
    ```
    git clone https://github.com/Mithilesh-Lala/Gemini-Chatbot-with-document-processing.git
-   cd gemini-chatbot
+   cd to project diretory
    ```
 
 2. Install the required packages:
